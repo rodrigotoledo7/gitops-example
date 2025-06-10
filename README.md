@@ -28,3 +28,20 @@ Apresentação desenvolvida por Rodrigo para o IFRO.
 ---
 
 > Para dúvidas ou sugestões, abra uma issue ou envie um pull request.
+
+## Dados Pessoais
+
+Rodrigo Duarte de Oliveira Tolêdo
+
+- Atuação Principal: Analista Judiciário (Análise de Sistemas) na Secretaria de Tecnologia da Informação e Comunicação (STIC) do Poder
+Judiciário de Rondônia.
+
+**Formação Acadêmica**:
+- Graduado em Matemática (UNIR).
+- Graduado em Análise e Desenvolvimento de Sistemas (UNOPAR).
+- Especialista em Desenvolvimento Web (UNOPAR) e em Docência do Ensino Superior (FAP).
+
+**Experiência Relevante**: Atuou como docente no ensino superior para cursos de Engenharia Elétrica, Mecânica e Produção.
+
+**Áreas de Interesse**: DevOps, Análise de Sistemas, QA, GitOps e Automação de Testes.
+
